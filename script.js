@@ -74,5 +74,3 @@ function repaint(){
 }
 
 window.onreset = repaint()
-
-console.log(random)
